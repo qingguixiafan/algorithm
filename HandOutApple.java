@@ -13,7 +13,7 @@ import java.util.Scanner;
  7 15 9 5
  输出
  3
- * @author Administrator
+ * @author mudu
  * @date 2018/2/2
  */
 public class HandOutApple {
